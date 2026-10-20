@@ -2,6 +2,14 @@
 
 ### Research with the source in sight.
 
+## Download the Android app
+
+**[Download Overthink APK (2.1 preview, 1.44 MB)](https://github.com/shakil42051/overthink/releases/download/v2.1-preview/Overthink-2.1-preview.apk)**
+
+Open this link on your Android phone, download the APK, then tap the downloaded file to install.
+
+[Developer debug APK (10.93 MB)](https://github.com/shakil42051/overthink/releases/download/v2.1-preview/Overthink-2.1-debug.apk) · [Release notes and all files](https://github.com/shakil42051/overthink/releases/tag/v2.1-preview)
+
 Overthink is a native Android workspace for finding real research, reading original PDFs, and keeping notes, sources, and projects together. The current version is **2.1 preview**.
 
 [Download the Android preview](../../releases/tag/v2.1-preview) · [See the screenshots](#preview) · [Explore customization](CUSTOMIZATION.md) · [Read the build report](REBUILD_STATUS.md)
@@ -32,7 +40,7 @@ The core library and PDF reader work on the device without an account. Search ne
 ## Install the preview
 
 1. Open the [v2.1 preview release](../../releases/tag/v2.1-preview) on an Android device.
-2. Download **`Overthink-2.1-preview.apk`**, then open it to install. Android may ask you to allow installation from your browser or file manager.
+2. Download **[Overthink-2.1-preview.apk](https://github.com/shakil42051/overthink/releases/download/v2.1-preview/Overthink-2.1-preview.apk)**, then open it to install. Android may ask you to allow installation from your browser or file manager.
 3. Start with Discover to find a source, save it to the Library, and open a PDF when a real PDF is available.
 
 The larger `Overthink-2.1-debug.apk` is included in the release for development and diagnosis. Both APKs have the same application ID, so installing one replaces the other. Neither is a Play Store or production-signed build. The preview SHA-256 is `9b2a62e6e6de74d2d73053a12691e3bde6dd58aadd9843a701aa39785097cc3d`.
